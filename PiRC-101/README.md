@@ -18,7 +18,7 @@ QWF_new = clamp(
 
 Current Base Value: 10,000,000 (10^7)
 ​The IPPR Economic Layer
-​The Internal Purchasing Power Reference (IPPR) is currently calculated at ~$2,248,000 USD per 1 mined Pi.
+​The Internal Purchasing Power Reference (IPPR) is currently calculated at ~$5,248,000 USD per 1 mined Pi.
 ​Mechanics: The IPPR is not just a theoretical metric; it directly determines the exchange rate for minting the protocol's internal settlement asset: $REF (Reflexive Ecosystem Fiat).
 ​Settlement: Merchants do not settle in volatile external Pi. They price goods in USD, and contracts settle in $REF units, which are fully collateralized by the Mined Pi locked in the Core Vault.
 ​⚙️ Justice Engine Architecture & Stability
